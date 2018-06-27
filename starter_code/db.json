@@ -41,6 +41,13 @@
       "debt": true,
       "weapon": "Whip",
       "id": 11
+    },
+    {
+      "name": "Black Panter",
+      "occupation": "Warrior",
+      "debt": false,
+      "weapon": "Vitranium",
+      "id": 12
     }
   ]
 }
